@@ -7,9 +7,9 @@
 
 ## 📦 프로젝트 구조
 blind-chicken-market-Server/
-├── frontend/ # 프론트엔드 레포지토리 (React, Vue 등)
-├── backend/ # 백엔드 레포지토리 (Node.js, Express, NestJS 등)
-└── README.md
+frontend/ # 프론트엔드 레포지토리 (React, Vue 등)
+backend/ # 백엔드 레포지토리 (Node.js, Express, NestJS 등)
+README.md
 
 
 ---
