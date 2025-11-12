@@ -22,7 +22,7 @@ blind-chicken-market-Server/
 | OS |  Amazon Linux 2023 |
 | Web Server | Nginx |
 | DB | PostgreSQL |
-| 배포 대상 | AWS EC2 (Ubuntu 인스턴스) |
+| 배포 대상 | AWS EC2 |
 | 실행 방식 | PM2 or Docker (선택) |
 
 ---
